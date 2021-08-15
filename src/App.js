@@ -39,12 +39,12 @@ function App() {
             <Route path="/orders">
               <OrderList />
             </Route>
-            <Route exact path="/">
+            <Route path="/">
               <SignIn />
             </Route>
-            <Route path="*">
+            {/* <Route path="*">
               <NotFound />
-            </Route>
+            </Route> */}
           </Switch>
         </Router>
       </div>
