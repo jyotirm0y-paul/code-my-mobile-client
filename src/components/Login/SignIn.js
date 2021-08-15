@@ -32,13 +32,13 @@ const SignIn = () => {
         // Signed in 
         var user = userCredential.user;
         setLoggedInUser(user);
+        if(user){
+          history.push("/products")}
       })
       .catch((error) => {
         var errorCode = error.code;
         var errorMessage = error.message;
-        // ..
       });
-    history.push("/products")
   }
 
   const handleLoginSubmit = e => {
@@ -48,12 +48,13 @@ const SignIn = () => {
         // Signed in
         var user = userCredential.user;
         setLoggedInUser(user);
+        if(user){
+          history.push("/products")}
       })
       .catch((error) => {
         var errorCode = error.code;
         var errorMessage = error.message;
       });
-    history.push("/products")
   }
 
   return (
