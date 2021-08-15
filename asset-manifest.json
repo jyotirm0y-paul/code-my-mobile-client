@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/code-my-mobile-client/static/css/main.db04e6b7.chunk.css",
+    "main.js": "/code-my-mobile-client/static/js/main.1b08a103.chunk.js",
+    "main.js.map": "/code-my-mobile-client/static/js/main.1b08a103.chunk.js.map",
+    "runtime-main.js": "/code-my-mobile-client/static/js/runtime-main.b6c5e516.js",
+    "runtime-main.js.map": "/code-my-mobile-client/static/js/runtime-main.b6c5e516.js.map",
+    "static/js/2.ea2bcf05.chunk.js": "/code-my-mobile-client/static/js/2.ea2bcf05.chunk.js",
+    "static/js/2.ea2bcf05.chunk.js.map": "/code-my-mobile-client/static/js/2.ea2bcf05.chunk.js.map",
+    "static/js/3.0823e9c1.chunk.js": "/code-my-mobile-client/static/js/3.0823e9c1.chunk.js",
+    "static/js/3.0823e9c1.chunk.js.map": "/code-my-mobile-client/static/js/3.0823e9c1.chunk.js.map",
+    "index.html": "/code-my-mobile-client/index.html",
+    "static/css/main.db04e6b7.chunk.css.map": "/code-my-mobile-client/static/css/main.db04e6b7.chunk.css.map",
+    "static/js/2.ea2bcf05.chunk.js.LICENSE.txt": "/code-my-mobile-client/static/js/2.ea2bcf05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c5e516.js",
+    "static/js/2.ea2bcf05.chunk.js",
+    "static/css/main.db04e6b7.chunk.css",
+    "static/js/main.1b08a103.chunk.js"
+  ]
+}
