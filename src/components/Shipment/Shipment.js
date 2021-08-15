@@ -19,7 +19,7 @@ const Shipment = () => {
   const { register, handleSubmit, formState: { errors } } = useForm();
 
   const onSubmit = (data) => {
-    fetch('http://localhost:5000/addOrder', {
+    fetch('https://quiet-oasis-56095.herokuapp.com/addOrder', {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify(data)
